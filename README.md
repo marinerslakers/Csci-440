@@ -58,17 +58,23 @@ TBA
 
 **Bitbucket username**: TBA
 
-## Textbook
+## Main References
 
-Textbooks are optional but recommended
+All optional but recommended
 
 * [Fundamentals of Database Systems, 7th
   edition](https://www.pearson.com/us/higher-education/program/Elmasri-Fundamentals-of-Database-Systems-7th-Edition/PGM189052.html),
   (FoDS in recommended reading below).
+* [W3 Schools SQL Tutorial](https://www.w3schools.com/sql/) (W3 in recommended
+  reading below).
 
-## Online Resources
+## Technical Resources
 
-* [W3 Schools SQL Tutorial](https://www.w3schools.com/sql/)
+* [Git Udacity Mini-course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+* [Forking in Git Tutorial](https://help.github.com/articles/fork-a-repo/)
+* [Markdown](https://daringfireball.net/projects/markdown/)
+* [Markdown Interactive Tutorial](https://www.markdowntutorial.com/)
+* [Jekyll](https://jekyllrb.com/docs/quickstart/)
 
 ## Class schedule
 
