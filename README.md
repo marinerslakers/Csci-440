@@ -29,9 +29,12 @@ your labs to me in class or office hours and push your code up to Bitbucket in
 a repository you've shared with me prior to class on the due date.
 
 All assignments and other resources for the class will be made available via
-Bitbucket:
+Bitbucket.  I suggest forking the repository so that you can maintain your own
+course materials. See the resources below for forking directions.
 
-https://bitbucket.org/msu-cs/csci440-fall2018
+To clone this repo:
+
+    $ git clone https://bitbucket.org/msu-cs/csci-440-fall2018
 
 ## Meeting Times
 
