@@ -86,45 +86,45 @@ in class.
 
 | Date | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 8/27 |                                                                     |                                |                                |                                            |
-| 8/29 |                                                                     |                                |                                |                                            |
-| 8/31 |                                                                     |                                |                                |                                            |
+| 8/27 | [Database Systems](notes/2018-08-27.md)                             |                                |                                |                                            |
+| 8/29 | [DB example](notes/2018-08-29.md)                                   |                                |                                | FoDS 1                                     |
+| 8/31 | [Model, Schemas, and 3 schema arch](notes/2018-08-31.md)            |                                |                                | FoDS 2.1-.4                                |
 
 ### September
 
 | Date | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 9/3  |                                                                     |                                |                                |                                            |
-| 9/5  |                                                                     |                                |                                |                                            |
-| 9/7  |                                                                     |                                |                                |                                            |
+| 9/3  | Labor Day (no class)                                                |                                |                                |                                            |
+| 9/5  | ER Model                                                            |                                |                                | FoDS 3.1-.3                                |
+| 9/7  | ER Model                                                            |                                |                                | FoDS 3.3-.5                                |
 |      |                                                                     |                                |                                |                                            |
-| 9/10 |                                                                     |                                |                                |                                            |
-| 9/12 |                                                                     |                                |                                |                                            |
-| 9/14 |                                                                     |                                |                                |                                            |
+| 9/10 | ER Model                                                            |                                |                                | FoDS 3.5-.7                                |
+| 9/12 | Enhanced ER                                                         |                                |                                | FoDS 4.1-.2                                |
+| 9/14 | Enhanced ER                                                         |                                |                                | FoDS 4.2-.3                                |
 |      |                                                                     |                                |                                |                                            |
-| 9/17 |                                                                     |                                |                                |                                            |
-| 9/19 |                                                                     |                                |                                |                                            |
-| 9/21 |                                                                     |                                |                                |                                            |
+| 9/17 | Relational Data Model                                               |                                |                                | FoDS 5                                     |
+| 9/19 | EER to Relational Mapping                                           |                                |                                | FoDS 9                                     |
+| 9/21 | Normal Forms                                                        |                                |                                | FoDS 14.1-.2                               |
 |      |                                                                     |                                |                                |                                            |
-| 9/24 |                                                                     |                                |                                |                                            |
-| 9/26 |                                                                     |                                |                                |                                            |
-| 9/28 |                                                                     |                                |                                |                                            |
+| 9/24 | Normal Forms                                                        |                                |                                | FoDS 14.2-.3                               |
+| 9/26 | Normal Forms                                                        |                                |                                | FoDS 14.3-.4                               |
+| 9/28 | Normal Forms                                                        |                                |                                | FoDS 14.4-.5                               |
 
 ### October
 
 | Date  | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 10/1  |                                                                     |                                |                                |                                            |
-| 10/3  |                                                                     |                                |                                |                                            |
-| 10/5  |                                                                     |                                |                                |                                            |
+| 10/1  | Relational Algebra                                                  |                                |                                | FoDS 8.1-.5                                |
+| 10/3  | Relational Calculus                                                 |                                |                                | FoDS 8.6-.7                                |
+| 10/5  | Exam                                                                |                                |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
-| 10/8  |                                                                     |                                |                                |                                            |
-| 10/10 |                                                                     |                                |                                |                                            |
-| 10/12 |                                                                     |                                |                                |                                            |
+| 10/8  | Basic SQL                                                           |                                |                                | FoDS 6.1-6.2                               |
+| 10/10 | Basic SQL                                                           |                                |                                | FoDS 6.3-6.4                               |
+| 10/12 | Intermediate SQL                                                    |                                |                                | FoDS 7.1                                   |
 |       |                                                                     |                                |                                |                                            |
-| 10/15 |                                                                     |                                |                                |                                            |
-| 10/17 |                                                                     |                                |                                |                                            |
-| 10/19 |                                                                     |                                |                                |                                            |
+| 10/15 | Intermediate SQL                                                    |                                |                                | FoDS 7.2                                   |
+| 10/17 | Intermediate SQL                                                    |                                |                                | FoDS 7.3                                   |
+| 10/19 | Intermediate SQL                                                    |                                |                                | FoDS 7.4                                   |
 |       |                                                                     |                                |                                |                                            |
 | 10/22 |                                                                     |                                |                                |                                            |
 | 10/24 |                                                                     |                                |                                |                                            |
@@ -166,14 +166,6 @@ in class.
 | 12/11 (4-6) 	| Finals period                                                       |                                |                                |                                            |
 
 ## Potential Upcoming Topics:
-- Database Systems
-- Entity-Relationship Model
-- Enhanced Entity-Relationship Model
-- Relational Data Model
-- Enhanced Entity-Relationship Model to Relational Model
-- Normal Forms
-- Relational Algebra
-- SQL
 - Indexing
 - Transactions
 - NoSQL
