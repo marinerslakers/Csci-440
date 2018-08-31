@@ -86,9 +86,9 @@ in class.
 
 | Date | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 8/27 | [Database Systems](./notes/2018-08-27.md)                           |                                |                                |                                            |
-| 8/29 | [DB example](./notes/2018-08-29.md)                                 |                                |                                | FoDS 1                                     |
-| 8/31 | [Model, Schemas, and 3 schema arch](./notes/2018-08-31.md)          |                                |                                | FoDS 2.1-.4                                |
+| 8/27 | [Database Systems](./notes/2018-08-27.pdf)                          |                                |                                |                                            |
+| 8/29 | [DB example](./notes/2018-08-29.pdf)                                |                                |                                | FoDS 1                                     |
+| 8/31 | [Model, Schemas, and 3 schema arch](./notes/2018-08-31.pdf)         |                                |                                | FoDS 2.1-.4                                |
 
 ### September
 
