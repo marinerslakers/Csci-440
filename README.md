@@ -95,18 +95,18 @@ in class.
 | Date | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
 | 9/3  | Labor Day (no class)                                                |                                |                                |                                            |
-| 9/5  | ER Model                                                            |                                |                                | FoDS 3.1-.3                                |
+| 9/5  | ER Model                                                            | Homework 01 (on D2L)           |                                | FoDS 3.1-.3                                |
 | 9/7  | ER Model                                                            |                                |                                | FoDS 3.3-.5                                |
 |      |                                                                     |                                |                                |                                            |
-| 9/10 | ER Model                                                            |                                |                                | FoDS 3.5-.7                                |
+| 9/10 | ER Model                                                            | Homework 02                    | Homework 01 (on D2L)           | FoDS 3.5-.7                                |
 | 9/12 | Enhanced ER                                                         |                                |                                | FoDS 4.1-.2                                |
 | 9/14 | Enhanced ER                                                         |                                |                                | FoDS 4.2-.3                                |
 |      |                                                                     |                                |                                |                                            |
-| 9/17 | Relational Data Model                                               |                                |                                | FoDS 5                                     |
+| 9/17 | Relational Data Model                                               | Homework 03                    | Homework 02                    | FoDS 5                                     |
 | 9/19 | EER to Relational Mapping                                           |                                |                                | FoDS 9                                     |
 | 9/21 | Normal Forms                                                        |                                |                                | FoDS 14.1-.2                               |
 |      |                                                                     |                                |                                |                                            |
-| 9/24 | Normal Forms                                                        |                                |                                | FoDS 14.2-.3                               |
+| 9/24 | Normal Forms                                                        | Homework 04                    | Homework 03                    | FoDS 14.2-.3                               |
 | 9/26 | Normal Forms                                                        |                                |                                | FoDS 14.3-.4                               |
 | 9/28 | Normal Forms                                                        |                                |                                | FoDS 14.4-.5                               |
 
@@ -114,15 +114,15 @@ in class.
 
 | Date  | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 10/1  | Relational Algebra                                                  |                                |                                | FoDS 8.1-.5                                |
+| 10/1  | Relational Algebra                                                  | Homework 05                    | Homework 04                    | FoDS 8.1-.5                                |
 | 10/3  | Relational Calculus                                                 |                                |                                | FoDS 8.6-.7                                |
 | 10/5  | Exam                                                                |                                |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
-| 10/8  | Basic SQL                                                           |                                |                                | FoDS 6.1-6.2                               |
+| 10/8  | Basic SQL                                                           | Homework 06                    | Homework 05                    | FoDS 6.1-6.2                               |
 | 10/10 | Basic SQL                                                           |                                |                                | FoDS 6.3-6.4                               |
 | 10/12 | Intermediate SQL                                                    |                                |                                | FoDS 7.1                                   |
 |       |                                                                     |                                |                                |                                            |
-| 10/15 | Intermediate SQL                                                    |                                |                                | FoDS 7.2                                   |
+| 10/15 | Intermediate SQL                                                    | Homework 07                    | Homework 06                    | FoDS 7.2                                   |
 | 10/17 | Intermediate SQL                                                    |                                |                                | FoDS 7.3                                   |
 | 10/19 | Intermediate SQL                                                    |                                |                                | FoDS 7.4                                   |
 |       |                                                                     |                                |                                |                                            |
