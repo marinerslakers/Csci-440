@@ -95,18 +95,18 @@ in class.
 | Date | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
 | 9/3  | Labor Day (no class)                                                |                                |                                |                                            |
-| 9/5  | ER Model                                                            | Homework 01 (on D2L)           |                                | FoDS 3.1-.3                                |
-| 9/7  | ER Model                                                            |                                |                                | FoDS 3.3-.5                                |
+| 9/5  | [Conceptual Design & Company Example](./notes/2018-09-05.pdf)       |                                |                                | FoDS 3.1-.3                                |
+| 9/7  | [ER Model - Attributes](./notes/2018-09-07.pdf)                     |                                |                                | FoDS 3.3                                   |
 |      |                                                                     |                                |                                |                                            |
-| 9/10 | ER Model                                                            | Homework 02                    | Homework 01 (on D2L)           | FoDS 3.5-.7                                |
+| 9/10 | ER Model                                                            | Homework 01                    |                                | FoDS 3.3-.7                                |
 | 9/12 | Enhanced ER                                                         |                                |                                | FoDS 4.1-.2                                |
 | 9/14 | Enhanced ER                                                         |                                |                                | FoDS 4.2-.3                                |
 |      |                                                                     |                                |                                |                                            |
-| 9/17 | Relational Data Model                                               | Homework 03                    | Homework 02                    | FoDS 5                                     |
+| 9/17 | Relational Data Model                                               | Homework 02                    | Homework 01                    | FoDS 5                                     |
 | 9/19 | EER to Relational Mapping                                           |                                |                                | FoDS 9                                     |
 | 9/21 | Normal Forms                                                        |                                |                                | FoDS 14.1-.2                               |
 |      |                                                                     |                                |                                |                                            |
-| 9/24 | Normal Forms                                                        | Homework 04                    | Homework 03                    | FoDS 14.2-.3                               |
+| 9/24 | Normal Forms                                                        | Homework 03                    | Homework 02                    | FoDS 14.2-.3                               |
 | 9/26 | Normal Forms                                                        |                                |                                | FoDS 14.3-.4                               |
 | 9/28 | Normal Forms                                                        |                                |                                | FoDS 14.4-.5                               |
 
@@ -114,15 +114,15 @@ in class.
 
 | Date  | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 10/1  | Relational Algebra                                                  | Homework 05                    | Homework 04                    | FoDS 8.1-.5                                |
+| 10/1  | Relational Algebra                                                  | Homework 04                    | Homework 03                    | FoDS 8.1-.5                                |
 | 10/3  | Relational Calculus                                                 |                                |                                | FoDS 8.6-.7                                |
 | 10/5  | Exam                                                                |                                |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
-| 10/8  | Basic SQL                                                           | Homework 06                    | Homework 05                    | FoDS 6.1-6.2                               |
+| 10/8  | Basic SQL                                                           | Homework 05                    | Homework 04                    | FoDS 6.1-6.2                               |
 | 10/10 | Basic SQL                                                           |                                |                                | FoDS 6.3-6.4                               |
 | 10/12 | Intermediate SQL                                                    |                                |                                | FoDS 7.1                                   |
 |       |                                                                     |                                |                                |                                            |
-| 10/15 | Intermediate SQL                                                    | Homework 07                    | Homework 06                    | FoDS 7.2                                   |
+| 10/15 | Intermediate SQL                                                    | Homework 06                    | Homework 05                    | FoDS 7.2                                   |
 | 10/17 | Intermediate SQL                                                    |                                |                                | FoDS 7.3                                   |
 | 10/19 | Intermediate SQL                                                    |                                |                                | FoDS 7.4                                   |
 |       |                                                                     |                                |                                |                                            |
@@ -130,30 +130,30 @@ in class.
 | 10/24 |                                                                     |                                |                                |                                            |
 | 10/26 |                                                                     |                                |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
-| 10/29 |                                                                     |                                |                                |                                            |
+| 10/29 |                                                                     | Writing Project                |                                |                                            |
 | 10/31 |                                                                     |                                |                                |                                            |
 
 ### November
 
 | Date  | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 11/2  |                                                                     |                                |                                |                                            |
+| 11/2  | Invention session with Writing Center                               |                                | Project ideas due              |                                            |
 |       |                                                                     |                                |                                |                                            |
 | 11/5  |                                                                     |                                |                                |                                            |
 | 11/7  |                                                                     |                                |                                |                                            |
-| 11/9  |                                                                     |                                |                                |                                            |
+| 11/9  |                                                                     |                                | Writing Project v0             |                                            |
 |       |                                                                     |                                |                                |                                            |
 | 11/12 |                                                                     |                                |                                |                                            |
 | 11/14 |                                                                     |                                |                                |                                            |
 | 11/16 |                                                                     |                                |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
-| 11/19 |                                                                     |                                |                                |                                            |
+| 11/19 |                                                                     |                                | Feedback on Project v0         |                                            |
 | 11/21 |                                                                     |                                |                                |                                            |
 | 11/23 |                                                                     |                                |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
 | 11/26 |                                                                     |                                |                                |                                            |
 | 11/28 |                                                                     |                                |                                |                                            |
-| 11/30 |                                                                     |                                |                                |                                            |
+| 11/30 |                                                                     |                                | Writing Project v1             |                                            |
 
 ### December
 
@@ -163,7 +163,7 @@ in class.
 | 12/5  		|                                                                     |                                |                                |                                            |
 | 12/7  		|                                                                     |                                |                                |                                            |
 |       		|                                                                     |                                |                                |                                            |
-| 12/11 (4-6) 	| Finals period                                                       |                                |                                |                                            |
+| 12/11 (4-6) 	| Finals period                                                       |                                | Tutorial Pitch                 |                                            |
 
 ## Potential Upcoming Topics:
 - Indexing
