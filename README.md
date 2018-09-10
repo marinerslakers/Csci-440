@@ -98,7 +98,7 @@ in class.
 | 9/5  | [Conceptual Design & Company Example](./notes/2018-09-05.pdf)       | Homework 01 (D2L quiz) |             | FoDS 3.1-.3   |               |
 | 9/7  | [ER Model - Attributes](./notes/2018-09-07.pdf)                     |                        |             | FoDS 3.3      |               |
 |      |                                                                     |                        |             |               |               |
-| 9/10 | ER Model - Relationships                                            | Homework 02            |             | FoDS 3.3-.7   | [pt 1](https://youtu.be/ROPlELgFx_c) [pt 2](https://youtu.be/8jQ0on2f51U) [pt 3](https://youtu.be/Hx55D2BddxE) [pt 4](https://youtu.be/6XllpWTseB0) [pt 5](https://youtu.be/rP7XCZFEZe8) |
+| 9/10 | ER Model - Relationships                                            | Homework 02            |             | FoDS 3.3-.7   | [pt 1](https://youtu.be/ROPlELgFx_c)-[pt 2](https://youtu.be/8jQ0on2f51U)-[pt 3](https://youtu.be/Hx55D2BddxE)-[pt 4](https://youtu.be/6XllpWTseB0)-[pt 5](https://youtu.be/rP7XCZFEZe8) |
 | 9/12 | Enhanced ER                                                         |                        | Homework 01 | FoDS 4.1-.2   |               |
 | 9/14 | Enhanced ER                                                         |                        |             | FoDS 4.2-.3   |               |
 |      |                                                                     |                        |             |               |               |
