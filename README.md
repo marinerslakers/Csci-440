@@ -99,8 +99,8 @@ in class.
 | 9/7  | [ER Model - Attributes](./notes/2018-09-07.pdf)                     |                        |             | FoDS 3.3      |               |
 |      |                                                                     |                        |             |               |               |
 | 9/10 | ER Model - Relationships                                            | Homework 02            |             | FoDS 3.3-.7   | [pt 1](https://youtu.be/ROPlELgFx_c)-[pt 2](https://youtu.be/8jQ0on2f51U)-[pt 3](https://youtu.be/Hx55D2BddxE)-[pt 4](https://youtu.be/6XllpWTseB0)-[pt 5](https://youtu.be/rP7XCZFEZe8) |
-| 9/12 | Enhanced ER                                                         |                        | Homework 01 | FoDS 4.1-.2   |               |
-| 9/14 | Enhanced ER                                                         |                        |             | FoDS 4.2-.3   |               |
+| 9/12 | ER Model - Relationships (pt 2)                                     |                        | Homework 01 | FoDS 3.4-.7   | [pt 1](https://youtu.be/4Azz7RW7EGE)- [pt 2](https://youtu.be/dZwmBsaNnm0)- [pt 3](https://youtu.be/yy07SwQnhsU)- [pt 4](https://youtu.be/HHpRSgHA7bM)- [pt 5](https://youtu.be/Qyc-tkuITEc)- [pt 6](https://youtu.be/jy3Xlq851g4)- [pt 7](https://youtu.be/8ZEqJ_I5flI)- [pt 8](https://youtu.be/C7Fb4OKWjOI)- [pt 9](https://youtu.be/GxnyGEL4Rgk) |
+| 9/14 | Enhanced ER                                                         |                        |             | FoDS 4.1-.3   |               |
 |      |                                                                     |                        |             |               |               |
 | 9/17 | Relational Data Model                                               | Homework 03            | Homework 02 | FoDS 5        |               |
 | 9/19 | EER to Relational Mapping                                           |                        |             | FoDS 9        |               |
