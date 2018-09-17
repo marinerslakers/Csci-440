@@ -102,11 +102,11 @@ in class.
 | 9/12 | ER Model - Relationships (pt 2)                                     |                        | Homework 01 | FoDS 3.4-.7   | [pt 1](https://youtu.be/4Azz7RW7EGE)- [pt 2](https://youtu.be/dZwmBsaNnm0)- [pt 3](https://youtu.be/yy07SwQnhsU)- [pt 4](https://youtu.be/HHpRSgHA7bM)- [pt 5](https://youtu.be/Qyc-tkuITEc)- [pt 6](https://youtu.be/jy3Xlq851g4)- [pt 7](https://youtu.be/8ZEqJ_I5flI)- [pt 8](https://youtu.be/C7Fb4OKWjOI)- [pt 9](https://youtu.be/GxnyGEL4Rgk) |
 | 9/14 | Enhanced ER                                                         |                        |             | FoDS 4.1-.3   | [pt 1](https://youtu.be/WE_2qX6LMWY)- [pt 2](https://youtu.be/5ueRe-oBc68)- [pt 3](https://youtu.be/Nn-qk-N_R7U)- [pt 4](https://youtu.be/I6C4bOdUu74)- [pt 5](https://youtu.be/of1o-4DaQ70)- [pt 6](https://youtu.be/RiNxICpVLyU)- [pt 7](https://youtu.be/ri86B-knbkk) |
 |      |                                                                     |                        |             |               |               |
-| 9/17 | Relational Data Model                                               | Homework 03            | Homework 02 | FoDS 5        |               |
-| 9/19 | EER to Relational Mapping                                           |                        |             | FoDS 9        |               |
-| 9/21 | Normal Forms                                                        |                        |             | FoDS 14.1-.2  |               |
+| 9/17 | Relational Data Model                                               | Homework 03 (D2L quiz) | Homework 02 | FoDS 5.1      |               |
+| 9/19 | Relational Data Model                                               |                        |             | FoDS 5.2      |               |
+| 9/21 | EER to Relational Mapping                                           |                        |             | FoDS 9        |               |
 |      |                                                                     |                        |             |               |               |
-| 9/24 | Normal Forms                                                        | Homework 04            | Homework 03 | FoDS 14.2-.3  |               |
+| 9/24 | Normal Forms                                                        | Homework 04            | Homework 03 | FoDS 14.1-.2  |               |
 | 9/26 | Normal Forms                                                        |                        |             | FoDS 14.3-.4  |               |
 | 9/28 | Normal Forms                                                        |                        |             | FoDS 14.4-.5  |               |
 
