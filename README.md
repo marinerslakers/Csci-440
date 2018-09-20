@@ -92,23 +92,23 @@ in class.
 
 ### September
 
-| Date | Description                                                         | Assigned               | Due         | Reading       | Video         |
-|------|---------------------------------------------------------------------|------------------------|-------------|---------------|---------------|
-| 9/3  | Labor Day (no class)                                                |                        |             |               |               |
-| 9/5  | [Conceptual Design & Company Example](./notes/2018-09-05.pdf)       | Homework 01 (D2L quiz) |             | FoDS 3.1-.3   |               |
-| 9/7  | [ER Model - Attributes](./notes/2018-09-07.pdf)                     |                        |             | FoDS 3.3      |               |
-|      |                                                                     |                        |             |               |               |
-| 9/10 | [ER Model - Relationships](./notes/2018-09-10.pdf)                  | Homework 02 (D2L quiz) |             | FoDS 3.3-.7   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR5eoThUko4UFRs7nCGJkbX2) |
-| 9/12 | [ER Model - Relationships (pt 2)](./notes/2018-09-12.pdf)           |                        | Homework 01 | FoDS 3.4-.7   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR4VdoMEd39ztGzBolZVAyBx) |
-| 9/14 | [Enhanced ER](./notes/2018-09-14.pdf)                               |                        |             | FoDS 4.1-.3   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR7o2DAiqlVJ4IpJtL54aKce) |
-|      |                                                                     |                        |             |               |               |
-| 9/17 | [Relational Data Model](./notes/2018-09-17.pdf)                     | Homework 03 (D2L quiz) | Homework 02 | FoDS 5.1      |               |
-| 9/19 | Relational Data Model                                               | Proj Pt1               |             | FoDS 5.2      | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6VLxaTnFD_-yQ2WG_qAzeB) |
-| 9/21 | EER to Relational Mapping                                           |                        |             | FoDS 9        |               |
-|      |                                                                     |                        |             |               |               |
-| 9/24 | Normal Forms                                                        | Homework 04            | Homework 03 | FoDS 14.1-.2  |               |
-| 9/26 | Normal Forms                                                        |                        | Proj Pt 1   | FoDS 14.3-.4  |               |
-| 9/28 | Normal Forms                                                        |                        |             | FoDS 14.4-.5  |               |
+| Date | Description                                                         | Assigned                         | Due         | Reading       | Video         |
+|------|---------------------------------------------------------------------|----------------------------------|-------------|---------------|---------------|
+| 9/3  | Labor Day (no class)                                                |                                  |             |               |               |
+| 9/5  | [Conceptual Design & Company Example](./notes/2018-09-05.pdf)       | Homework 01 (D2L quiz)           |             | FoDS 3.1-.3   |               |
+| 9/7  | [ER Model - Attributes](./notes/2018-09-07.pdf)                     |                                  |             | FoDS 3.3      |               |
+|      |                                                                     |                                  |             |               |               |
+| 9/10 | [ER Model - Relationships](./notes/2018-09-10.pdf)                  | Homework 02 (D2L quiz)           |             | FoDS 3.3-.7   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR5eoThUko4UFRs7nCGJkbX2) |
+| 9/12 | [ER Model - Relationships (pt 2)](./notes/2018-09-12.pdf)           |                                  | Homework 01 | FoDS 3.4-.7   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR4VdoMEd39ztGzBolZVAyBx) |
+| 9/14 | [Enhanced ER](./notes/2018-09-14.pdf)                               |                                  |             | FoDS 4.1-.3   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR7o2DAiqlVJ4IpJtL54aKce) |
+|      |                                                                     |                                  |             |               |               |
+| 9/17 | [Relational Data Model](./notes/2018-09-17.pdf)                     | Homework 03 (D2L quiz)           | Homework 02 | FoDS 5.1      |               |
+| 9/19 | Relational Data Model                                               | [Proj Pt1](./project/REDME.md)   |             | FoDS 5.2      | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6VLxaTnFD_-yQ2WG_qAzeB) |
+| 9/21 | EER to Relational Mapping                                           |                                  |             | FoDS 9        |               |
+|      |                                                                     |                                  |             |               |               |
+| 9/24 | Normal Forms                                                        | Homework 04                      | Homework 03 | FoDS 14.1-.2  |               |
+| 9/26 | Normal Forms                                                        |                                  | Proj Pt 1   | FoDS 14.3-.4  |               |
+| 9/28 | Normal Forms                                                        |                                  |             | FoDS 14.4-.5  |               |
 
 ### October
 
