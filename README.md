@@ -104,10 +104,10 @@ in class.
 |      |                                                                     |                                  |             |               |               |
 | 9/17 | [Relational Data Model](./notes/2018-09-17.pdf)                     | Homework 03 (D2L quiz)           | Homework 02 | FoDS 5.1      |               |
 | 9/19 | Relational Data Model                                               | [Proj Pt1](./projects/README.md) |             | FoDS 5.2      | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6VLxaTnFD_-yQ2WG_qAzeB) |
-| 9/21 | EER to Relational Mapping                                           |                                  |             | FoDS 9        |               |
+| 9/21 | Relational Data Model                                               |                                  |             | FoDS 5.2-.3   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6Vj9aiEVoeguQEyWmziXCW) |
 |      |                                                                     |                                  |             |               |               |
-| 9/24 | Normal Forms                                                        | Homework 04                      | Homework 03 | FoDS 14.1-.2  |               |
-| 9/26 | Normal Forms                                                        |                                  | Proj Pt 1   | FoDS 14.3-.4  |               |
+| 9/24 | ER to Relational Mapping                                            | Homework 04                      | Homework 03 | FoDS 9        |               |
+| 9/26 | Normal Forms                                                        |                                  | Proj Pt 1   | FoDS 14.1-.3  |               |
 | 9/28 | Normal Forms                                                        |                                  |             | FoDS 14.4-.5  |               |
 
 ### October
