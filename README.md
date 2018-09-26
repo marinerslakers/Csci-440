@@ -102,11 +102,11 @@ in class.
 | 9/12 | [ER Model - Relationships (pt 2)](./notes/2018-09-12.pdf)           |                                  | Homework 01 | FoDS 3.4-.7   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR4VdoMEd39ztGzBolZVAyBx) |
 | 9/14 | [Enhanced ER](./notes/2018-09-14.pdf)                               |                                  |             | FoDS 4.1-.3   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR7o2DAiqlVJ4IpJtL54aKce) |
 |      |                                                                     |                                  |             |               |               |
-| 9/17 | [Relational Data Model](./notes/2018-09-17.pdf)                     | Homework 03 (D2L quiz)           | Homework 02 | FoDS 5.1      |               |
-| 9/19 | Relational Data Model                                               | [Proj Pt1](./projects/README.md) |             | FoDS 5.2      | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6VLxaTnFD_-yQ2WG_qAzeB) |
-| 9/21 | Relational Data Model                                               |                                  |             | FoDS 5.2-.3   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6Vj9aiEVoeguQEyWmziXCW) |
+| 9/17 | [Relational Data Model - Relations](./notes/2018-09-17.pdf)         | Homework 03 (D2L quiz)           | Homework 02 | FoDS 5.1      |               |
+| 9/19 | [Relational Data Model - Constraints](./notes/2018-09-19.pdf)       | [Proj Pt1](./projects/README.md) |             | FoDS 5.2      | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6VLxaTnFD_-yQ2WG_qAzeB) |
+| 9/21 | [Relational Data Model - Integrity](./notes/2018-09-21.pdf)         |                                  |             | FoDS 5.2-.3   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6Vj9aiEVoeguQEyWmziXCW) |
 |      |                                                                     |                                  |             |               |               |
-| 9/24 | ER to Relational Mapping                                            | Homework 04                      | Homework 03 | FoDS 9        |               |
+| 9/24 | [ER to Relational Mapping - Entities](./notes/2018-09-24.pdf)       | Homework 04                      | Homework 03 | FoDS 9        |               |
 | 9/26 | Normal Forms                                                        |                                  | Proj Pt 1   | FoDS 14.1-.3  |               |
 | 9/28 | Normal Forms                                                        |                                  |             | FoDS 14.4-.5  |               |
 
