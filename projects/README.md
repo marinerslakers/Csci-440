@@ -14,6 +14,9 @@ plan your next movie night.  IMDB makes its data available through its
 [site](https://datasets.imdbws.com/).  Additionally,
 [IMDB-Data](https://www.kaggle.com/PromptCloudHQ/imdb-data) from Kaggle
 provides some additional information, not available through IMDB directly.
+A [snapshots](https://montana.box.com/s/bp87ewwz826vn8puoyg2nzi1clnowdvp)
+of the data and website descriptions are available for your convenience.
+
 
 # Assignments
 
