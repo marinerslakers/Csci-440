@@ -27,7 +27,7 @@ See [syllabus](../README.md) for due dates.
 The parts are:
 
 * [Part 1 - ER Diagram](part01/README.md)
-* Part 2 - Relational Schema
+* [Part 2 - Relational Schema](part02/README.md)
 * Part 3 - Queries
 * Part 4 - Project Proposal
 * Part 5 - Project Code

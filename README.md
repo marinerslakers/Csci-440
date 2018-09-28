@@ -106,29 +106,29 @@ in class.
 | 9/19 | [Relational Data Model - Constraints](./notes/2018-09-19.pdf)       | [Proj Pt1](./projects/README.md) |             | FoDS 5.2      | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6VLxaTnFD_-yQ2WG_qAzeB) |
 | 9/21 | [Relational Data Model - Integrity](./notes/2018-09-21.pdf)         |                                  |             | FoDS 5.2-.3   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6Vj9aiEVoeguQEyWmziXCW) |
 |      |                                                                     |                                  |             |               |               |
-| 9/24 | [ER to Relational Mapping - Entities](./notes/2018-09-24.pdf)       | Homework 04                      | Homework 03 | FoDS 9        |               |
-| 9/26 | Normal Forms                                                        |                                  | Proj Pt 1   | FoDS 14.1-.3  |               |
-| 9/28 | Normal Forms                                                        |                                  |             | FoDS 14.4-.5  |               |
+| 9/24 | [ER to Relational Mapping - Entities](./notes/2018-09-24.pdf)       | Homework 04 (D2L quiz)           | Homework 03 | FoDS 9        |               |
+| 9/26 |  ER to Relational Mapping - Relations                               | [Proj Pt 2](./projects/README.md)| Proj Pt 1   | FoDS 9        |               |
+| 9/28 | Normal Forms                                                        |                                  |             | FoDS 14.1-.2  |               |
 
 ### October
 
 | Date  | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 10/1  | Relational Algebra                                                  | Homework 05                    | Homework 04                    | FoDS 8.1-.5                                |
-| 10/3  | Relational Calculus                                                 |                                |                                | FoDS 8.6-.7                                |
-| 10/5  | Exam                                                                |                                |                                |                                            |
+| 10/1  | Normal Forms                                                        |                                | Homework 04                    | FoDS 14.3                                  |
+| 10/3  | Normal Forms                                                        |                                |                                | FoDS 14.4                                  |
+| 10/5  | Exam                                                                | Homework 05                    |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
-| 10/8  | Basic SQL                                                           | Homework 06                    | Homework 05                    | FoDS 6.1-6.2                               |
-| 10/10 | Basic SQL                                                           |                                |                                | FoDS 6.3-6.4                               |
-| 10/12 | Intermediate SQL                                                    |                                |                                | FoDS 7.1                                   |
+| 10/8  | Normal Forms                                                        |                                |                                | FoDS 14.5                                  |
+| 10/10 | Relational Algebra                                                  |                                |                                | FoDS 8.1-8.5                               |
+| 10/12 | Relational Calculus                                                 |                                | Homework 05                    | FoDS 8.6-8.7                               |
 |       |                                                                     |                                |                                |                                            |
-| 10/15 | Intermediate SQL                                                    | Homework 07                    | Homework 06                    | FoDS 7.2                                   |
-| 10/17 | Intermediate SQL                                                    |                                |                                | FoDS 7.3                                   |
-| 10/19 | Intermediate SQL                                                    |                                |                                | FoDS 7.4                                   |
+| 10/15 | Basic SQL                                                           | Homework 06                    | Proj Pt 2                      | FoDS 6.1-6.2                               |
+| 10/17 | Basic SQL                                                           |                                |                                | FoDS 6.3-6.4                               |
+| 10/19 | Intermediate SQL                                                    |                                |                                | FoDS 7.1                                   |
 |       |                                                                     |                                |                                |                                            |
-| 10/22 |                                                                     |                                |                                |                                            |
-| 10/24 |                                                                     |                                |                                |                                            |
-| 10/26 |                                                                     |                                |                                |                                            |
+| 10/22 | Intermediate SQL                                                    | Homework 07                    | Homework 06                    | FoDS 7.2                                   |
+| 10/24 | Intermediate SQL                                                    |                                |                                | FoDS 7.3                                   |
+| 10/26 | Intermediate SQL                                                    |                                | Proj Pt 03                     | FoDS 7.4                                   |
 |       |                                                                     |                                |                                |                                            |
 | 10/29 |                                                                     | Writing Project                |                                |                                            |
 | 10/31 |                                                                     |                                |                                |                                            |
@@ -137,7 +137,7 @@ in class.
 
 | Date  | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 11/2  | Invention session with Writing Center                               |                                | Project ideas due              |                                            |
+| 11/2  | Invention session with Writing Center                               |                                | Writing Project ideas due      |                                            |
 |       |                                                                     |                                |                                |                                            |
 | 11/5  |                                                                     |                                |                                |                                            |
 | 11/7  |                                                                     |                                |                                |                                            |
