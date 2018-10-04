@@ -107,15 +107,15 @@ in class.
 | 9/21 | [Relational Data Model - Integrity](./notes/2018-09-21.pdf)         |                                  |             | FoDS 5.2-.3   | [playlist](https://www.youtube.com/playlist?list=PL9keKc79DrR6Vj9aiEVoeguQEyWmziXCW) |
 |      |                                                                     |                                  |             |               |               |
 | 9/24 | [ER to Relational Mapping - Entities](./notes/2018-09-24.pdf)       | Homework 04 (D2L quiz)           | Homework 03 | FoDS 9        |               |
-| 9/26 |  ER to Relational Mapping - Relations                               | [Proj Pt 2](./projects/README.md)| Proj Pt 1   | FoDS 9        |               |
-| 9/28 | Normal Forms                                                        |                                  |             | FoDS 14.1-.2  |               |
+| 9/26 | [ER to Relational Mapping - Relations](./notes/2018-09-26.pdf)      | [Proj Pt 2](./projects/README.md)| Proj Pt 1   | FoDS 9        |               |
+| 9/28 | [ER to Relational Mapping - Practice](./notes/2018-09-28.pdf)       |                                  |             | FoDS 14.1-.2  |               |
 
 ### October
 
 | Date  | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 10/1  | Normal Forms                                                        |                                | Homework 04                    | FoDS 14.3                                  |
-| 10/3  | Normal Forms                                                        |                                |                                | FoDS 14.4                                  |
+| 10/1  | [Normal Forms - Guidelines](./notes/2018-10-01.pdf)                 |                                | Homework 04                    | FoDS 14.1                                  |
+| 10/3  | [Normal Forms - FD](./notes/2018-10-03.pdf)                         |                                |                                | FoDS 14.2                                  |
 | 10/5  | Exam                                                                | Homework 05                    |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
 | 10/8  | Normal Forms                                                        |                                |                                | FoDS 14.5                                  |
