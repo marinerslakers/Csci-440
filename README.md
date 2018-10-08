@@ -116,9 +116,9 @@ in class.
 |-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
 | 10/1  | [Normal Forms - Guidelines](./notes/2018-10-01.pdf)                 |                                | Homework 04                    | FoDS 14.1                                  |
 | 10/3  | [Normal Forms - FD](./notes/2018-10-03.pdf)                         |                                |                                | FoDS 14.2                                  |
-| 10/5  | Exam                                                                | Homework 05                    |                                |                                            |
+| 10/5  | Exam                                                                |                                |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
-| 10/8  | Normal Forms                                                        |                                |                                | FoDS 14.5                                  |
+| 10/8  | Normal Forms                                                        | Homework 05                    |                                | FoDS 14.5                                  |
 | 10/10 | Relational Algebra                                                  |                                |                                | FoDS 8.1-8.5                               |
 | 10/12 | Relational Calculus                                                 |                                | Homework 05                    | FoDS 8.6-8.7                               |
 |       |                                                                     |                                |                                |                                            |
