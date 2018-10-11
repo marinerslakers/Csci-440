@@ -118,9 +118,9 @@ in class.
 | 10/3  | [Normal Forms - FD](./notes/2018-10-03.pdf)                         |                                |                                | FoDS 14.2                                  |
 | 10/5  | Exam                                                                |                                |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
-| 10/8  | Normal Forms                                                        | Homework 05                    |                                | FoDS 14.5                                  |
-| 10/10 | Relational Algebra                                                  |                                |                                | FoDS 8.1-8.5                               |
-| 10/12 | Relational Calculus                                                 |                                | Homework 05                    | FoDS 8.6-8.7                               |
+| 10/8  | [Normal Forms - 1&2NF](./notes/2018-10-08.pdf)                      | Homework 05                    |                                | FoDS 14.3                                  |
+| 10/10 | [Normal Forms - 3&BCNF](./notes/2018-10-10.pdf)                     |                                |                                | FoDS 14.5                                  |
+| 10/12 | Relational Algebra & Calculus                                       |                                | Homework 05                    | FoDS 8.1-8.7                               |
 |       |                                                                     |                                |                                |                                            |
 | 10/15 | Basic SQL                                                           | Homework 06                    | Proj Pt 2                      | FoDS 6.1-6.2                               |
 | 10/17 | Basic SQL                                                           |                                |                                | FoDS 6.3-6.4                               |
