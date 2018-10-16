@@ -122,9 +122,9 @@ in class.
 | 10/10 | [Normal Forms - 3&BCNF](./notes/2018-10-10.pdf)                     |                                |                                | FoDS 14.5                                  |
 | 10/12 | [Relational Algebra](./notes/2018-10-12.pdf)                        |                                | Homework 05                    | FoDS 8.1-8.3                               |
 |       |                                                                     |                                |                                |                                            |
-| 10/15 | Relational Algebra Practice                                         | Homework 06                    | Proj Pt 2                      | FoDS 8.5                                   |
+| 10/15 | Relational Algebra Practice                                         | Homework 06                    |                                | FoDS 8.5                                   |
 | 10/17 | Basic SQL                                                           |                                |                                | FoDS 6.1-6.2                               |
-| 10/19 | Basic SQL                                                           |                                |                                | FoDS 6.3-6.4                               |
+| 10/19 | Basic SQL                                                           |                                | Proj Pt 2                      | FoDS 6.3-6.4                               |
 |       |                                                                     |                                |                                |                                            |
 | 10/22 | Intermediate SQL                                                    | Homework 07                    | Homework 06                    | FoDS 7.1                                   |
 | 10/24 | Intermediate SQL                                                    |                                |                                | FoDS 7.2                                   |
