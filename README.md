@@ -123,7 +123,7 @@ in class.
 | 10/12 | [Relational Algebra](./notes/2018-10-12.pdf)                        |                                | Homework 05                    | FoDS 8.1-8.3                               |
 |       |                                                                     |                                |                                |                                            |
 | 10/15 | Relational Algebra Practice                                         | Homework 06                    |                                | FoDS 8.5                                   |
-| 10/17 | Basic SQL                                                           |                                |                                | FoDS 6.1-6.2                               |
+| 10/17 | [SQL](./notes/2018-10-17.md)[script](./notes/2018-10-17-script.sql) |                                |                                | FoDS 6.1-6.2                               |
 | 10/19 | Basic SQL                                                           |                                | Proj Pt 2                      | FoDS 6.3-6.4                               |
 |       |                                                                     |                                |                                |                                            |
 | 10/22 | Intermediate SQL                                                    | Homework 07                    | Homework 06                    | FoDS 7.1                                   |
