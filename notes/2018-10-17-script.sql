@@ -24,6 +24,15 @@ insert into Movie values(106, 'Snow White', 1937, null);
 insert into Movie values(107, 'Avatar', 2009, 'James Cameron');
 insert into Movie values(108, 'Raiders of the Lost Ark', 1981, 'Steven Spielberg');
 
+insert into Reviewer values(201, 'Sarah Martinez');
+insert into Reviewer values(202, 'Daniel Lewis');
+insert into Reviewer values(203, 'Brittany Harris');
+insert into Reviewer values(204, 'Mike Anderson');
+insert into Reviewer values(205, 'Chris Jackson');
+insert into Reviewer values(206, 'Elizabeth Thomas');
+insert into Reviewer values(207, 'James Cameron');
+insert into Reviewer values(208, 'Ashley White');
+
 insert into Rating values(201, 101, 2, '2011-01-22');
 insert into Rating values(201, 101, 4, '2011-01-27');
 insert into Rating values(202, 106, 4, null);
@@ -38,4 +47,6 @@ insert into Rating values(206, 107, 3, '2011-01-15');
 insert into Rating values(206, 106, 5, '2011-01-19');
 insert into Rating values(207, 107, 5, '2011-01-20');
 insert into Rating values(208, 104, 3, '2011-01-02');
+
+
 
