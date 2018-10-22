@@ -9,9 +9,9 @@ drop table if exists Reviewer;
 drop table if exists Rating;
 
 /* Create the schema for our tables */
-create table Movie(mID int, title text, year int, director text);
-create table Reviewer(rID int, name text);
-create table Rating(rID int, mID int, stars int, ratingDate date);
+create table Movie(mID integer, title text, year integer, director text);
+create table Reviewer(rID integer, name text);
+create table Rating(rID integer, mID integer, stars integer, ratingDate date);
 
 
 /* Populate the tables with our data */

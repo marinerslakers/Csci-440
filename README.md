@@ -123,15 +123,15 @@ in class.
 | 10/12 | [Relational Algebra](./notes/2018-10-12.pdf)                        |                                | Homework 05                    | FoDS 8.1-8.3                               |
 |       |                                                                     |                                |                                |                                            |
 | 10/15 | Relational Algebra Practice                                         | Homework 06                    |                                | FoDS 8.5                                   |
-| 10/17 | [SQL](./notes/2018-10-17.md)[script](./notes/2018-10-17-script.sql) |                                |                                | FoDS 6.1-6.2                               |
-| 10/19 | Basic SQL                                                           |                                | Proj Pt 2                      | FoDS 6.3-6.4                               |
+| 10/17 | [SQL](./notes/2018-10-17.md)[script](./notes/2018-10-17-script.sql) |                                |                                | FoDS 6.1-.4                                |
+| 10/19 | Basic SQL                                                           |                                | Proj Pt 2                      | FoDS 6.1-.4                                |
 |       |                                                                     |                                |                                |                                            |
-| 10/22 | Intermediate SQL                                                    | Homework 07                    | Homework 06                    | FoDS 7.1                                   |
-| 10/24 | Intermediate SQL                                                    |                                |                                | FoDS 7.2                                   |
-| 10/26 | Intermediate SQL                                                    |                                | Proj Pt 03                     | FoDS 7.3-7.4                               |
+| 10/22 | Basic SQL                                                           | Homework 07                    | Homework 06                    | FoDS 6.1-.4                                |
+| 10/24 | Basic SQL                                                           |                                |                                | FoDS 6.1-.4                                |
+| 10/26 | Intermediate SQL                                                    |                                |                                | FoDS 7.1                                   |
 |       |                                                                     |                                |                                |                                            |
-| 10/29 |                                                                     | Writing Project                |                                |                                            |
-| 10/31 |                                                                     |                                |                                |                                            |
+| 10/29 | Intermediate SQL                                                    | Writing Project                | Proj Pt 03                     | FoDS 7.2                                   |
+| 10/31 | Intermediate SQL                                                    |                                |                                | FoDS 7.3                                   |
 
 ### November
 
