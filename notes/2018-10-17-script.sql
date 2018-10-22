@@ -21,8 +21,9 @@ insert into Movie values(103, 'The Sound of Music', 1965, 'Robert Wise');
 insert into Movie values(104, 'E.T.', 1982, 'Steven Spielberg');
 insert into Movie values(105, 'Titanic', 1997, 'James Cameron');
 insert into Movie values(106, 'Snow White', 1937, null);
-insert into Movie values(107, 'Avatar', 2009, 'James Cameron');
-insert into Movie values(108, 'Raiders of the Lost Ark', 1981, 'Steven Spielberg');
+insert into Movie values(107, 'Snow White', 1997, 'Michael Cohn');
+insert into Movie values(108, 'Avatar', 2009, 'James Cameron');
+insert into Movie values(109, 'Raiders of the Lost Ark', 1981, 'Steven Spielberg');
 
 insert into Reviewer values(201, 'Sarah Martinez');
 insert into Reviewer values(202, 'Daniel Lewis');
