@@ -28,7 +28,7 @@ The parts are:
 
 * [Part 1 - ER Diagram](part01/README.md)
 * [Part 2 - Relational Schema](part02/README.md)
-* Part 3 - Queries
+* [Part 3 - Queries](part03/README.md)
 * Part 4 - Project Proposal
 * Part 5 - Project Code
 * Part 6 - Project Report
