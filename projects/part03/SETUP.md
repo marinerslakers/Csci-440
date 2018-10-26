@@ -122,23 +122,6 @@ computer and on your own laptop) and have made changes to one of them and pushed
 those changes up to the server, you can use `git pull` from the other location
 to bring it up to date.
 
-## Submitting your work
-
-For the labs, you may be able to just demo your work to me in class or in office
-hours before the deadline, but this may be difficult as there are many students.
-An alternative would be for the assignment that you are turning in, submit on
-D2L.  The submission should contain your your team members' names, a link to
-your repository, and hash value of the commit that you are submitting.  (See
-below for how to get a commit's hash.)
-
-** Note: Normally with git, forks are used to make changes to a repository that
-you don't own. After implementing a feature, usually a pull request is issued
-from your fork to the original repository. The maintainers of the original
-repository can choose to incorporate your changes or not. Unfortunately, pull
-requests on public repositories (like this one), are public as well. So if you
-were to turn in your work using pull requests, anyone could view it, so we're
-NOT using pull requests. **
-
 ## More Git Basics
 
 Git is a distributed version control system (VCS). When you cloned the
