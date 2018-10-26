@@ -24,6 +24,22 @@ users to this repo' box isn't there, you can also add users through the
 'Settings' menu on the left hand side. Click 'Settings', then 'User and Group
 access', where you can add users.
 
+## Submitting your work
+
+For this part of the project submit on D2L.  There are two submission
+folders, one is for the group and the other is for the individual.
+In the group submission, supply your your team members' names, a link to
+your repository, and hash value of the commit that you are submitting.  (See
+[SETUP.md](SETUP.md) if you are unsure how to get the hash of a commit.)
+
+** Note: Normally with git, forks are used to make changes to a repository that
+you don't own. After implementing a feature, usually a pull request is issued
+from your fork to the original repository. The maintainers of the original
+repository can choose to incorporate your changes or not. Unfortunately, pull
+requests on public repositories (like this one), are public as well. So if you
+were to turn in your work using pull requests, anyone could view it, so we're
+NOT using pull requests. **
+
 ## Writing your queries
 
 In this part of the project, we will write a lot of queries.  Some of the
