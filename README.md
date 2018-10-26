@@ -130,7 +130,7 @@ in class.
 | 10/24 | Basic SQL                                                           |                                |                                | FoDS 6.1-.4                                |
 | 10/26 | Intermediate SQL                                                    |                                |                                | FoDS 7.1                                   |
 |       |                                                                     |                                |                                |                                            |
-| 10/29 | Intermediate SQL                                                    | Writing Project                | Proj Pt 03                     | FoDS 7.2                                   |
+| 10/29 | Intermediate SQL                                                    | Writing Project                | Homework 07                    | FoDS 7.2                                   |
 | 10/31 | Intermediate SQL                                                    |                                |                                | FoDS 7.3                                   |
 
 ### November
@@ -139,7 +139,7 @@ in class.
 |-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
 | 11/2  | Invention session with Writing Center                               |                                | Writing Project ideas due      |                                            |
 |       |                                                                     |                                |                                |                                            |
-| 11/5  |                                                                     |                                |                                |                                            |
+| 11/5  |                                                                     |                                | Proj Pt 03                     |                                            |
 | 11/7  |                                                                     |                                |                                |                                            |
 | 11/9  |                                                                     |                                | Writing Project v0             |                                            |
 |       |                                                                     |                                |                                |                                            |
