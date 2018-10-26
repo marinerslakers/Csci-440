@@ -1,6 +1,7 @@
-# Labs
+# Part 03
 
-For this lab, we will be writing a bunch of SQL and will make your submission
+For this part of the project, we will be writing a bunch of SQL and will
+make your submission
 with Bitbucket.  You will fork the repository into your own private Bitbucket
 repository, where you will make your additions to the code base. We use
 Bitbucket because private repositories are free. On GitHub, you will need a paid
