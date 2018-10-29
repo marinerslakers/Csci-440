@@ -52,11 +52,11 @@ David L. Millman, Ph.D.
 
 ## Grader
 
-TBA
+Philip Neill
 
-**Email**: TBA
+**Email**: philip.neill@hotmail.com
 
-**Bitbucket username**: TBA
+**Bitbucket username**: Philip2907
 
 ## Main References
 
@@ -124,30 +124,30 @@ in class.
 |       |                                                                     |                                |                                |                                            |
 | 10/15 | Relational Algebra Practice                                         | Homework 06                    |                                | FoDS 8.5                                   |
 | 10/17 | [SQL](./notes/2018-10-17.md)[script](./notes/2018-10-17-script.sql) |                                |                                | FoDS 6.1-.4                                |
-| 10/19 | Basic SQL                                                           |                                | Proj Pt 2                      | FoDS 6.1-.4                                |
+| 10/19 | [Basic SQL](./notes/2018-10-19.md)                                  |                                | Proj Pt 2                      | FoDS 6.1-.4                                |
 |       |                                                                     |                                |                                |                                            |
-| 10/22 | Basic SQL                                                           | Homework 07                    | Homework 06                    | FoDS 6.1-.4                                |
-| 10/24 | Basic SQL                                                           |                                |                                | FoDS 6.1-.4                                |
-| 10/26 | Intermediate SQL                                                    |                                |                                | FoDS 7.1                                   |
+| 10/22 | [Basic SQL](./notes/2018-10-22.md)                                  | Homework 07                    | Homework 06                    | FoDS 6.1-.4                                |
+| 10/24 | [Basic SQL](./notes/2018-10-24.md)                                  |                                |                                | FoDS 6.1-.4                                |
+| 10/26 | [Inter SQL](./notes/2018-10-26.md)[script](./notes/2018-10-26.sql)  |                                |                                | FoDS 7.1                                   |
 |       |                                                                     |                                |                                |                                            |
 | 10/29 | Intermediate SQL                                                    | Writing Project                | Homework 07                    | FoDS 7.2                                   |
-| 10/31 | Intermediate SQL                                                    |                                |                                | FoDS 7.3                                   |
+| 10/31 | Intermediate SQL                                                    |                                | Writing Project ideas due      | FoDS 7.3                                   |
 
 ### November
 
 | Date  | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
 |-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 11/2  | Invention session with Writing Center                               |                                | Writing Project ideas due      |                                            |
+| 11/2  | Invention session with Writing Center                               |                                |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
 | 11/5  |                                                                     |                                | Proj Pt 03                     |                                            |
 | 11/7  |                                                                     |                                |                                |                                            |
-| 11/9  |                                                                     |                                | Writing Project v0             |                                            |
+| 11/9  | Technical side of giving feedback                                   |                                | Writing Project v0             |                                            |
 |       |                                                                     |                                |                                |                                            |
 | 11/12 |                                                                     |                                |                                |                                            |
 | 11/14 |                                                                     |                                |                                |                                            |
-| 11/16 |                                                                     |                                |                                |                                            |
+| 11/16 |                                                                     |                                | Feedback on Project v0         |                                            |
 |       |                                                                     |                                |                                |                                            |
-| 11/19 |                                                                     |                                | Feedback on Project v0         |                                            |
+| 11/19 |                                                                     |                                |                                |                                            |
 | 11/21 |                                                                     |                                |                                |                                            |
 | 11/23 |                                                                     |                                |                                |                                            |
 |       |                                                                     |                                |                                |                                            |
