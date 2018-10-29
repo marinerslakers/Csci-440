@@ -17,6 +17,21 @@ tutorial that should take about 30 minutes for someone to go through that does
 not already know the topic. (Rule of thumb is that that if you know the topic,
 it should take you about .25-.5 the target time.)
 
+You may choose from a diverse set of topics, that is, anything that we have
+covered in the class so far.  Let me provide a few examples. An interesting
+design tutorial could be "Creating Functional Dependencies". It could be
+structured to describe what a functional dependency is, lay out a data set, and
+work through an example of extracting the dependencies. An interesting
+coding related tutorial may be "Querying with Groups".  It could be structured
+such that it describes the `GROUP BY` and `HAVING` keywords, describes the
+difference between `HAVING` vs `WHERE`, lay out a data set and work though some
+queries.
+
+For all tutorials, you must provide at least 3 problems for the user to work on
+on their own, a list of references where they can find out more, and references.
+Since this work will be publicly available, resources cannot be assumed (so even
+if you use the book from the course, you must reference it).
+
 The MSU Writing Center to provide additional support.
 
 All work will be written in
