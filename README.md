@@ -112,26 +112,26 @@ in class.
 
 ### October
 
-| Date  | Description                                                         | Assigned                       | Due                            | Recommended Reading                        |
-|-------|---------------------------------------------------------------------|--------------------------------|--------------------------------|--------------------------------------------|
-| 10/1  | [Normal Forms - Guidelines](./notes/2018-10-01.pdf)                 |                                | Homework 04                    | FoDS 14.1                                  |
-| 10/3  | [Normal Forms - FD](./notes/2018-10-03.pdf)                         |                                |                                | FoDS 14.2                                  |
-| 10/5  | Exam                                                                |                                |                                |                                            |
-|       |                                                                     |                                |                                |                                            |
-| 10/8  | [Normal Forms - 1&2NF](./notes/2018-10-08.pdf)                      | Homework 05                    |                                | FoDS 14.3                                  |
-| 10/10 | [Normal Forms - 3&BCNF](./notes/2018-10-10.pdf)                     |                                |                                | FoDS 14.5                                  |
-| 10/12 | [Relational Algebra](./notes/2018-10-12.pdf)                        |                                | Homework 05                    | FoDS 8.1-8.3                               |
-|       |                                                                     |                                |                                |                                            |
-| 10/15 | Relational Algebra Practice                                         | Homework 06                    |                                | FoDS 8.5                                   |
-| 10/17 | [SQL](./notes/2018-10-17.md)[script](./notes/2018-10-17-script.sql) |                                |                                | FoDS 6.1-.4                                |
-| 10/19 | [Basic SQL](./notes/2018-10-19.md)                                  |                                | Proj Pt 2                      | FoDS 6.1-.4                                |
-|       |                                                                     |                                |                                |                                            |
-| 10/22 | [Basic SQL](./notes/2018-10-22.md)                                  | Homework 07                    | Homework 06                    | FoDS 6.1-.4                                |
-| 10/24 | [Basic SQL](./notes/2018-10-24.md)                                  |                                |                                | FoDS 6.1-.4                                |
-| 10/26 | [Inter SQL](./notes/2018-10-26.md)[script](./notes/2018-10-26.sql)  |                                |                                | FoDS 7.1                                   |
-|       |                                                                     |                                |                                |                                            |
-| 10/29 | Intermediate SQL                                                    | Writing Project                | Homework 07                    | FoDS 7.2                                   |
-| 10/31 | Intermediate SQL                                                    |                                | Writing Project ideas due      | FoDS 7.3                                   |
+| Date  | Description                                                         | Assigned                            | Due                            | Recommended Reading                        |
+|-------|---------------------------------------------------------------------|-------------------------------------|--------------------------------|--------------------------------------------|
+| 10/1  | [Normal Forms - Guidelines](./notes/2018-10-01.pdf)                 |                                     | Homework 04                    | FoDS 14.1                                  |
+| 10/3  | [Normal Forms - FD](./notes/2018-10-03.pdf)                         |                                     |                                | FoDS 14.2                                  |
+| 10/5  | Exam                                                                |                                     |                                |                                            |
+|       |                                                                     |                                     |                                |                                            |
+| 10/8  | [Normal Forms - 1&2NF](./notes/2018-10-08.pdf)                      | Homework 05                         |                                | FoDS 14.3                                  |
+| 10/10 | [Normal Forms - 3&BCNF](./notes/2018-10-10.pdf)                     |                                     |                                | FoDS 14.5                                  |
+| 10/12 | [Relational Algebra](./notes/2018-10-12.pdf)                        |                                     | Homework 05                    | FoDS 8.1-8.3                               |
+|       |                                                                     |                                     |                                |                                            |
+| 10/15 | Relational Algebra Practice                                         | Homework 06                         |                                | FoDS 8.5                                   |
+| 10/17 | [SQL](./notes/2018-10-17.md)[script](./notes/2018-10-17-script.sql) |                                     |                                | FoDS 6.1-.4                                |
+| 10/19 | [Basic SQL](./notes/2018-10-19.md)                                  |                                     | Proj Pt 2                      | FoDS 6.1-.4                                |
+|       |                                                                     |                                     |                                |                                            |
+| 10/22 | [Basic SQL](./notes/2018-10-22.md)                                  | Homework 07                         | Homework 06                    | FoDS 6.1-.4                                |
+| 10/24 | [Basic SQL](./notes/2018-10-24.md)                                  |                                     |                                | FoDS 6.1-.4                                |
+| 10/26 | [Inter SQL](./notes/2018-10-26.md)[script](./notes/2018-10-26.sql)  |                                     |                                | FoDS 7.1                                   |
+|       |                                                                     |                                     |                                |                                            |
+| 10/29 | [Inter SQL](./notes/2018-10-26.sql)                                 | [Writing Pt 1](./writing/01-ideas/) | Homework 07                    | FoDS 7.2                                   |
+| 10/31 | Intermediate SQL                                                    |                                     | Writing Pt 1                   | FoDS 7.3                                   |
 
 ### November
 
