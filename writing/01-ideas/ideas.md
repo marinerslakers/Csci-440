@@ -1,15 +1,15 @@
 # Team Members
 
-* member 1
-* member 2
-* member 3
-* member 4
+* Jase Rost
+* Zak Alberda
+* Ryan Caraway
+* Brandon May
 
-# Idea 1
-<add description>
+# ER Diagram
+Teach how to create an ER Diagram. Use given entities and relationships and show how to convert them to an ER Diagram, showing how the attributes and types should be formatted.
 
-# Idea 2
-<add description>
+# Basic sql tutorial
+Make a tutorial that goes over basic sql instructions in sqlite 3. Go over how to create a table, insert and delete values from that table, and how to display data from the database.
 
-# Idea 3
-<add description>
+# Normalize a relationship
+Give a tutorial on how to make a normal form in at least 1NF and 2NF.
