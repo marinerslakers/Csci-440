@@ -68,6 +68,6 @@ Here is how we solved Exercise 1 using the "Adding columns" method:
 
 ![Column Answer](./images/columnAnswer.GIF "Answer using additional columns")
 
-here is how we solved Exercise 1 using the "Adding a relation" method:
+Here is how we solved Exercise 1 using the "Adding a relation" method:
 
 ![Relation Answer](./images/relationAnswer.GIF "Answer using an additional relation")
