@@ -71,7 +71,7 @@ A relation is in second normal form if every attribute that is not a part of the
 ### Removing Redundancies
 If we think about the nature of functional dependencies we realize that in order for a key to uniquely identify every attribute in the table every attribute must be functionally dependent on the key.  Partial functional dependencies, however, introduce redundancies.  If an attribute in the set Y is functionally dependent on any attribute in the set X that is not a part of the key then that attribute in the set Y in unnecessary because it could simply be inferred.  
 
-From our previous example all nonprime attributes are functionally dependent on the VIN.  If we know a cars model; however, why do we need to have the car�s make in the table if we can just infer this from the model?  Additionally if we have a table that is only filled with Model-T cars then why do we need to know the make or the color since all Model-T�s are only available in black?
+From our previous example all nonprime attributes are functionally dependent on the VIN.  If we know a cars model; however, why do we need to have the cars make in the table if we can just infer this from the model?  Additionally if we have a table that is only filled with Model-T cars then why do we need to know the make or the color since all Model-Ts are only available in black?
 
 By transforming these partial functional dependencies into full functional dependencies we are removing redundancies in the table.  This is simply accomplished by removing any attribute in the table that can be inferred from a nonprime attribute.
 
