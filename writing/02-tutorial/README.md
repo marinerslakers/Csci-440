@@ -53,11 +53,27 @@ Normal forms are cumulative so in order to put your relational schema in second 
 ### Functional Dependencies
 If X and Y are attribute sets in your entity, then Y has a functional dependency on X (written as X -> Y) if we can know the value of Y in any tuple just by looking at the value of X.  This means that each value in the attribute set of Y appearing in a tuple maps to a single value of X in that tuple.  The value of X in a tuple implies the value of Y in that tuple.  Let's take a look at an example:
 
+![Functional Dependency Example](./images/Tutorial_2NF_Fig1.JPG "Data Set")
+
 Looking at the schema for car we can see we have two models (Taurus and Focus) with the make Ford.  Make is functionally dependent on model (model -> make) because every time a car has one of these models we know that the make will be Ford.  Model is not functionally dependent on make however (make -/> model) because there are multiple models in this table (Taurus and Focus) with the make 'Ford'.
 
 Functional dependency X -> Y is a full functional dependency if removing an attribute from X causes the functional dependency to no longer hold.  In our car example there is only one attribute in X which is make so this is obviously a full functional dependency but lets suppose that the only cars in our table are Ford model-T's as shown below.
 
+![Partial FD Example](./images/Tutorial_2NF_Fig2.JPG "Data Set")
+
 In this table we can see that you can get your model-T in any color so long as its black!  Therefore by knowing the model (model-T) we know both the make and the color.  This is a partial functional dependency because if we were to remove the attribute color from X we would still have a functional dependency X -> Y where the model is functionally dependent on the make.
+
+### Definition
+Now that we have gone over the concept of functional and full functional dependencies we can finally define second normal form:
+
+A relation is in second normal form if every attribute that is not a part of the candidate key is fully functionally dependent on the primary key.
+
+### Removing Redundancies
+If we think about the nature of functional dependencies we realize that in order for a key to uniquely identify every attribute in the table every attribute must be functionally dependent on the key.  Partial functional dependencies, however, introduce redundancies.  If an attribute in the set Y is functionally dependent on any attribute in the set X that is not a part of the key then that attribute in the set Y in unnecessary because it could simply be inferred.  
+
+From our previous example all nonprime attributes are functionally dependent on the VIN.  If we know a cars model; however, why do we need to have the cars make in the table if we can just infer this from the model?  Additionally if we have a table that is only filled with Model-T cars then why do we need to know the make or the color since all Model-Ts are only available in black?
+
+By transforming these partial functional dependencies into full functional dependencies we are removing redundancies in the table.  This is simply accomplished by removing any attribute in the table that can be inferred from a nonprime attribute.
 
 ## Exercise 1 Answers
 Here is how we solved Exercise 1 using the "Adding tuples" method:
