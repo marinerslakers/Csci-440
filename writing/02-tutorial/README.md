@@ -1,10 +1,10 @@
 # Normalizing a Database
 
-When creating a database, especially one that will be used to store large amounts of data, it's important to make sure that the data is stored as efficiently as possible. This can be accomplished by normalizing the database. Normalization is used to reduce redundancy and anomalies that can occur when inserting, deleting, and modifying entries in a database. There are several different "tiers" of normalization; this tutorial will go over the first two: 1NF and 2NF.
+When creating a database, especially one that will be used to store large amounts of data, it's important to make sure that the data is stored as efficiently as possible. This can be accomplished by normalizing the database. Normalization is used to reduce redundancy and anomalies that can occur when inserting, deleting, and modifying entries in a database. There are several different "tiers" of normalization; this tutorial will go over the first two: 1st Normal Form (1NF) and 2nd Normal Form (2NF).
 
 ### What You'll Need to Know
 
-This tutorial assumes you're already familiar with the basics of databases: tuples, relations, and functional dependencies are key parts of normalization.
+This tutorial assumes you're already familiar with the basics of databases: relations, tuples, and the parts of tuples (keys, non-prime attributes, etc.) are important concepts for normalization.
 
 ## 1NF
 
@@ -21,14 +21,14 @@ One solution is to create a new tuple in the relation for every value, like so:
 
 ![Add Tuple Example](./images/addTupleExample.GIF "Example of adding tuples")
 
-As you can see, there now exists a new tuple for every value in the "Color" attribute. Unfortunately, this method can lead to issues of bloated databases, especially if used to normalize multiple multi-valued attributes within a single tuple.
+As you can see, there now exists a new tuple for every value in the "Color" attribute. Unfortunately, this method can lead to issues of bloated databases. For example, if we were to enter cars that all had at least two colors, it would more than double the size of the entire database. What's worse, if you tried to do use this method to handle multiple multi-valued attributes, the size of the database would increase exponentially for every value!
 
 ### 2. Add Columns
 Another solution is to add more attributes to a tuple that will accommodate the maximum number of values an attribute can possess. For example, if we know that the maximum number of colors is 3, we could expand the tuple to:
 
 ![Add Column Example](./images/addColumnExample.GIF "Example of adding columns")
 
-There are some drawbacks to this method as well. First of all, it requires us to know exactly what the maximum number of values for an attribute is. Often times in the real world, while we can estimate how many values an attribute will have in general, it can be very difficult to predict the MAXIMUM number of values. And even if we can, that can lead to other issues. For our previous example, we assumed that the maximum number of colors was 3, but what if, in reality, it could contain every color in existence? If we assumed that every unique RGB combination was its own color, that would give us over 16.5 million colors! Trying to add a column for every one of those would defeat the purpose of normalization!
+There are some drawbacks to this method as well. First of all, it requires us to know exactly what the maximum number of values for an attribute is. Often times in the real world, while we can estimate how many values an attribute will have in general, it can be very difficult to predict the **maximum** number of values. And even if we can, that can lead to other issues. For our previous example, we assumed that the maximum number of colors was 3, but what if, in reality, it could contain every color in existence? If we assumed that every unique RGB combination was its own color, that would give us over 16.5 million colors! Trying to add a column for every one of those would defeat the purpose of normalization!
 
 This isn't to say that adding columns is a bad solution, it is often used effectively in database design. However, it just means that we need to make sure we fully understand the what will be required of our database before implementing it.
 
@@ -73,7 +73,7 @@ If we think about the nature of functional dependencies we realize that in order
 
 From our previous example all nonprime attributes are functionally dependent on the VIN.  If we know a cars model; however, why do we need to have the cars make in the table if we can just infer this from the model?  Additionally if we have a table that is only filled with Model-T cars then why do we need to know the make or the color since all Model-Ts are only available in black?
 
-By transforming these partial functional dependencies into full functional dependencies we are removing redundancies in the table.  This is simply accomplished by removing any attribute in the table that can be inferred from a nonprime attribute.
+By transforming these partial functional dependencies into full functional dependencies we are removing redundancies in the table.  This is simply accomplished by removing any attribute in the table that can be inferred from a non-prime attribute.
 
 ## Exercise 1 Answers
 Here is how we solved Exercise 1 using the "Adding tuples" method:
