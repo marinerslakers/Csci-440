@@ -53,13 +53,13 @@ Normal forms are cumulative so in order to put your relational schema in second 
 ### Functional Dependencies
 If X and Y are attribute sets in your entity, then Y has a functional dependency on X (written as X -> Y) if we can know the value of Y in any tuple just by looking at the value of X.  This means that each value in the attribute set of Y appearing in a tuple maps to a single value of X in that tuple.  The value of X in a tuple implies the value of Y in that tuple.  Let's take a look at an example:
 
-![Functional Dependency Example](./images/Tutorial_2NF_Fig1.JPG "Data Set")
+![Functional Dependency Example](./images/Tutorial_2NF_Fig1.JPG "Functional Dependency Example")
 
 Looking at the schema for car we can see we have two models (Taurus and Focus) with the make Ford.  Make is functionally dependent on model (model -> make) because every time a car has one of these models we know that the make will be Ford.  Model is not functionally dependent on make however (make -/> model) because there are multiple models in this table (Taurus and Focus) with the make 'Ford'.
 
 Functional dependency X -> Y is a full functional dependency if removing an attribute from X causes the functional dependency to no longer hold.  In our car example there is only one attribute in X which is make so this is obviously a full functional dependency but lets suppose that the only cars in our table are Ford model-T's as shown below.
 
-![Partial FD Example](./images/Tutorial_2NF_Fig2.JPG "Data Set")
+![Partial FD Example](./images/Tutorial_2NF_Fig2.JPG "Partial FD example")
 
 In this table we can see that you can get your model-T in any color so long as its black!  Therefore by knowing the model (model-T) we know both the make and the color.  This is a partial functional dependency because if we were to remove the attribute color from X we would still have a functional dependency X -> Y where the model is functionally dependent on the make.
 
@@ -75,6 +75,10 @@ From our previous example all nonprime attributes are functionally dependent on 
 
 By transforming these partial functional dependencies into full functional dependencies we are removing redundancies in the table.  This is simply accomplished by removing any attribute in the table that can be inferred from a non-prime attribute.
 
+Try an example for yourself:
+![Exercise 2]
+Take the table of Model-T cars and create a table that removes all the redundant attributes from the relation.  Find a way to link that redundant info back to the table so that it can retained.
+
 ## Exercise 1 Answers
 Here is how we solved Exercise 1 using the "Adding tuples" method:
 
@@ -87,3 +91,9 @@ Here is how we solved Exercise 1 using the "Adding columns" method:
 Here is how we solved Exercise 1 using the "Adding a relation" method:
 
 ![Relation Answer](./images/relationAnswer.GIF "Answer using an additional relation")
+
+## Exercise 2 Answer
+
+We removed "make" and color attributes from the table but left the model attribute (even though we know this is a table of Model-T cars).  This table is now in 2nd normal form because every element in the table is fully functionally dependent on the primary key VIN).  We created a second table with model info so that we could retain this data in the database without cluttering numerous vehicle tuples.
+![Ex2 Table 1](./images/ex2_table_1.JPG "Vehicle table")
+![Ex2 Table2](./images/ex2_table_1.JPG "Model-T table")
