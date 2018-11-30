@@ -94,7 +94,7 @@ Here is how we solved Exercise 1 using the "Adding a relation" method:
 
 ## Exercise 2 Answer
 
-We removed "make" and color attributes from the table but left the model attribute (even though we know this is a table of Model-T cars).  This table is now in 2nd normal form because every element in the table is fully functionally dependent on the primary key VIN).  We created a second table with model info so that we could retain this data in the database without cluttering numerous vehicle tuples.
+We removed "make" and color attributes from the table but left the model attribute (even though we know this is a table of Model-T cars).  This table is now in 2nd normal form because every element in the table is fully functionally dependent on the primary key VIN.  We created a second table with model info so that we could retain this data in the database without cluttering numerous vehicle tuples.
 
 ![Ex2 Table 1](./images/ex2_table_1.JPG "Vehicle table")
 
