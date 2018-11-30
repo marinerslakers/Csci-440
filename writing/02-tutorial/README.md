@@ -75,8 +75,9 @@ From our previous example all nonprime attributes are functionally dependent on 
 
 By transforming these partial functional dependencies into full functional dependencies we are removing redundancies in the table.  This is simply accomplished by removing any attribute in the table that can be inferred from a non-prime attribute.
 
-Try an example for yourself:
-![Exercise 2]
+##Exercise 2
+![Exercise 2](./images/Tutorial_2NF_Fig1.JPG "Example")
+
 Take the table of Model-T cars and create a table that removes all the redundant attributes from the relation.  Find a way to link that redundant info back to the table so that it can retained.
 
 ## Exercise 1 Answers
