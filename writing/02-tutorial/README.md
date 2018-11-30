@@ -80,6 +80,9 @@ By transforming these partial functional dependencies into full functional depen
 
 Take the table of Model-T cars and create a table that removes all the redundant attributes from the relation.  Find a way to link that redundant info back to the table so that it can retained.
 
+#Congratulations!
+You've completed this tutorial! Now, you should have a good idea of how to get a database into 1NF and 2NF. If you wish to continue and make your database even less redundant and more efficient, the next step is to learn how to do 3NF and Boyce-Codd Normal Form (BCNF). Good luck with your database!
+
 ## Exercise 1 Answers
 Here is how we solved Exercise 1 using the "Adding tuples" method:
 
