@@ -39,7 +39,7 @@ The third solution that can be used to solve this issue is to create a whole new
 
 Notice that the "Color" attribute has been completely dropped from the original tuple, and is instead added to an entirely different tuple. This method is the most versatile of the three methods, as any number of value can be inserted into the accompanying relation without worrying about too many or too few columns in the main tuple. However, the drawback to this is that it can make some of the logic when accessing the data a little more complicated.
 
-##Exercise 1
+## Exercise 1
 Consider the following tuples:
 
 ![Exercise 1](./images/exercise1.GIF "Exercise 1")
@@ -75,7 +75,7 @@ From our previous example all nonprime attributes are functionally dependent on 
 
 By transforming these partial functional dependencies into full functional dependencies we are removing redundancies in the table.  This is simply accomplished by removing any attribute in the table that can be inferred from a non-prime attribute.
 
-##Exercise 2
+## Exercise 2
 ![Exercise 2](./images/Tutorial_2NF_Fig2.JPG "Example")
 
 Take the table of Model-T cars and create a table that removes all the redundant attributes from the relation.  Find a way to link that redundant info back to the table so that it can retained.
